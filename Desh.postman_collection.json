@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "40e0e6fb-675d-46a0-8f6b-a51a40bda78a",
+		"name": "Desh",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://www.postman.com/collections/f36406f34fcc7d4e0502",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.postman.com/collections/f36406f34fcc7d4e0502",
+					"protocol": "https",
+					"host": [
+						"www",
+						"postman",
+						"com"
+					],
+					"path": [
+						"collections",
+						"f36406f34fcc7d4e0502"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
